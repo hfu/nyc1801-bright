@@ -1,14 +1,14 @@
 {
   "version": 8,
   "center": [
-    23.74,
-    -3.72
+    -73.97730,
+    40.75265
   ],
-  "zoom": 4.71,
+  "zoom": 14,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://hfu.github.io/drc1712-bright/tile.json"
+      "url": "https://hfu.github.io/nyc1801-bright/tile.json"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
